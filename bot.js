@@ -4,9 +4,9 @@ console.log("Scrpit By Dream");
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("هنا اي دي الروم")
+let channel =     client.channels.get("548461061913968640")
 setInterval(function() {
-channel.send(`هنا كلام ال سبام`);
+channel.send(`لاالله الى الله محمد رسول الله`);
 }, 30)
 })
 
